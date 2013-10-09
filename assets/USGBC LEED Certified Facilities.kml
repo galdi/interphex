@@ -1,0 +1,2043 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>USGBC LEED Certified Facilities</name>
+		<description><![CDATA[The USGBC Caribbean Chapter's data on projects certified LEED in 2013.]]></description>
+		<Folder>
+			<name>USGBC Caribbean LEED Partners</name>
+			<Placemark>
+				<styleUrl>#icon-503-PLATINUM</styleUrl>
+				<name>Standard Refrigeration Office Building</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.31,-66.077796</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED EB O&amp;M</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Platinum</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 76.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 19,200 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Profit Org</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Neysa Sanchez-Quintana</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>neysa@standardpr.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>Bo. Quebrada Arenas</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>San Juan</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00971-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>Bo. Quebrada Arenas, San Juan PR 00971-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value>http://www.standardpr.com/</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.31,-66.077796
+System: LEED EB O&M
+Certification: Platinum
+Points:  76.0 
+Square Footage:  19,200 
+Owner Type:  Profit Org
+Agent: Neysa Sanchez-Quintana
+Agent Email: neysa@standardpr.com
+Agent Street Address: Bo. Quebrada Arenas
+City: San Juan
+State: PR
+Zip Code: 00971-0000
+Agent Address: Bo. Quebrada Arenas, San Juan PR 00971-0000
+Web Info: http://www.standardpr.com/]]></description>
+				<Point>
+					<coordinates>18.31,-66.077796,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GOLD</styleUrl>
+				<name>Environmental Protection Agency at CVP</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.417333,-66.109221</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED-CI v2009</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Gold</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 73.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 21,753 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value>Corporate: Privately Held</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Geraldo Jusino-Arroyo                                                                                                        </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>gjusino@cma-sjpr.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>#48 State Road 165</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Guaynabo</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00968-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>#48 State Road 165, Guaynabo PR 00968-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.417333,-66.109221
+System: LEED-CI v2009
+Certification: Gold
+Points:  73.0 
+Square Footage:  21,753 
+Owner Type: Corporate: Privately Held
+Agent: Geraldo Jusino-Arroyo                                                                                                        
+Agent Email: gjusino@cma-sjpr.com
+Agent Street Address: #48 State Road 165
+City: Guaynabo
+State: PR
+Zip Code: 00968-0000
+Agent Address: #48 State Road 165, Guaynabo PR 00968-0000
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.417333,-66.109221,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GOLD</styleUrl>
+				<name>Professional Offices Park V - Tower I</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.375104,-66.072899</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED EB O&amp;M</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Gold</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 51.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 80,778 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Profit Org</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Andrea Gardner</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>agardner@ch2m.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>33 New Montgomery Street</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>San Francisco</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>CA</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>33 New Montgomery Street, San Francisco CA 94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.375104,-66.072899
+System: LEED EB O&M
+Certification: Gold
+Points:  51.0 
+Square Footage:  80,778 
+Owner Type:  Profit Org
+Agent: Andrea Gardner
+Agent Email: agardner@ch2m.com
+Agent Street Address: 33 New Montgomery Street
+City: San Francisco
+State: CA
+Zip Code: 94105
+Agent Address: 33 New Montgomery Street, San Francisco CA 94105
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.375104,-66.072899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GOLD</styleUrl>
+				<name>Ceiba, PR BRAC AFR Center/OMS/Unh Str</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.238278,-65.627861</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED NC 2.2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Gold</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 40.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 73,462 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Federal Government</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Rita Briner</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>rita.f.briner@usace.army.mil</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>600 Dr. Martin Luther King Place</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Louisville</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>KY</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>40202</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>600 Dr. Martin Luther King Place, Louisville KY 40202</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.238278,-65.627861
+System: LEED NC 2.2
+Certification: Gold
+Points:  40.0 
+Square Footage:  73,462 
+Owner Type:  Federal Government
+Agent: Rita Briner
+Agent Email: rita.f.briner@usace.army.mil
+Agent Street Address: 600 Dr. Martin Luther King Place
+City: Louisville
+State: KY
+Zip Code: 40202
+Agent Address: 600 Dr. Martin Luther King Place, Louisville KY 40202
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.238278,-65.627861,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GOLD</styleUrl>
+				<name>Ft. Allen PR BRAC AFR Center/OMS/Unh Str</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.010325,-66.50445</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED NC 2.2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Gold</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 39.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 49,320 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Federal Government</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Ron Schirato</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>rschirato@mbakercorp.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>100 Airside Drive</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Moon Township</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PA</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>15108</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>100 Airside Drive, Moon Township PA 15108</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value>http://bakercorp.com</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.010325,-66.50445
+System: LEED NC 2.2
+Certification: Gold
+Points:  39.0 
+Square Footage:  49,320 
+Owner Type:  Federal Government
+Agent: Ron Schirato
+Agent Email: rschirato@mbakercorp.com
+Agent Street Address: 100 Airside Drive
+City: Moon Township
+State: PA
+Zip Code: 15108
+Agent Address: 100 Airside Drive, Moon Township PA 15108
+Web Info: http://bakercorp.com]]></description>
+				<Point>
+					<coordinates>18.010325,-66.50445,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>Internal Revenue Service Office Guaynabo</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.417043,-66.108744</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED-CI v2009</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 56.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 30,503 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value>Corporate: Privately Held</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Geraldo Jusino-Arroyo                                                                                                        </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>gjusino@cma-sjpr.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>#48 State Road PR165</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Guaynabo</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00968-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>#48 State Road PR165, Guaynabo PR 00968-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.417043,-66.108744
+System: LEED-CI v2009
+Certification: Silver
+Points:  56.0 
+Square Footage:  30,503 
+Owner Type: Corporate: Privately Held
+Agent: Geraldo Jusino-Arroyo                                                                                                        
+Agent Email: gjusino@cma-sjpr.com
+Agent Street Address: #48 State Road PR165
+City: Guaynabo
+State: PR
+Zip Code: 00968-0000
+Agent Address: #48 State Road PR165, Guaynabo PR 00968-0000
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.417043,-66.108744,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>VA Regional Office at END Annex Building</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.416386,-66.108642</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED-CI v2009</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 55.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 64,661 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value>Corporate: Privately Held</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Geraldo Jusino-Arroyo                                                                                                        </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>gjusino@cma-sjpr.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>#50 State Road 165</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Guaynabo</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00968-8024</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>#50 State Road 165, Guaynabo PR 00968-8024</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.416386,-66.108642
+System: LEED-CI v2009
+Certification: Silver
+Points:  55.0 
+Square Footage:  64,661 
+Owner Type: Corporate: Privately Held
+Agent: Geraldo Jusino-Arroyo                                                                                                        
+Agent Email: gjusino@cma-sjpr.com
+Agent Street Address: #50 State Road 165
+City: Guaynabo
+State: PR
+Zip Code: 00968-8024
+Agent Address: #50 State Road 165, Guaynabo PR 00968-8024
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.416386,-66.108642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>Professional Offices Park IV</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.375104,-66.072899</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED EB O&amp;M</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 43.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 37,428 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Profit Org</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Andrea Gardner</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>agardner@ch2m.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>33 New Montgomery Street</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>San Francisco</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>CA</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>33 New Montgomery Street, San Francisco CA 94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.375104,-66.072899
+System: LEED EB O&M
+Certification: Silver
+Points:  43.0 
+Square Footage:  37,428 
+Owner Type:  Profit Org
+Agent: Andrea Gardner
+Agent Email: agardner@ch2m.com
+Agent Street Address: 33 New Montgomery Street
+City: San Francisco
+State: CA
+Zip Code: 94105
+Agent Address: 33 New Montgomery Street, San Francisco CA 94105
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.375104,-66.072899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>Diageo Barrel Warehouse and Admin Bldg</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>17.744911,-64.705431</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED NC 2.2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 34.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 208,610 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Individual</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Paul Silverberg</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>silverbergp@silverberg-arch.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>3967 Princeton Pike</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Princeton</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>NJ</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>08540-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>3967 Princeton Pike, Princeton NJ 08540-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 17.744911,-64.705431
+System: LEED NC 2.2
+Certification: Silver
+Points:  34.0 
+Square Footage:  208,610 
+Owner Type:  Individual
+Agent: Paul Silverberg
+Agent Email: silverbergp@silverberg-arch.com
+Agent Street Address: 3967 Princeton Pike
+City: Princeton
+State: NJ
+Zip Code: 08540-0000
+Agent Address: 3967 Princeton Pike, Princeton NJ 08540-0000
+Web Info: ]]></description>
+				<Point>
+					<coordinates>17.744911,-64.705431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>AXON-PR Building</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.481726,-67.030356</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED NC 2.2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 33.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 34,200 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Profit Org</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Ernesto Rivera-Suarez</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>ernesto@rsepr.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>177 Balboa St.</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Mayaguez</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00680-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>177 Balboa St., Mayaguez PR 00680-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value>http://www.axonpr.com/</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.481726,-67.030356
+System: LEED NC 2.2
+Certification: Silver
+Points:  33.0 
+Square Footage:  34,200 
+Owner Type:  Profit Org
+Agent: Ernesto Rivera-Suarez
+Agent Email: ernesto@rsepr.com
+Agent Street Address: 177 Balboa St.
+City: Mayaguez
+State: PR
+Zip Code: 00680-0000
+Agent Address: 177 Balboa St., Mayaguez PR 00680-0000
+Web Info: http://www.axonpr.com/]]></description>
+				<Point>
+					<coordinates>18.481726,-67.030356,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GREEN</styleUrl>
+				<name>Professional Offices Park II</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.375104,-66.072899</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED EB O&amp;M</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Certified</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 41.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 69,000 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Profit Org</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Andrea Gardner</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>agardner@ch2m.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>33 New Montgomery St., Suite 1400</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>San Francisco</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>CA</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>33 New Montgomery St., Suite 1400, San Francisco CA 94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.375104,-66.072899
+System: LEED EB O&M
+Certification: Certified
+Points:  41.0 
+Square Footage:  69,000 
+Owner Type:  Profit Org
+Agent: Andrea Gardner
+Agent Email: agardner@ch2m.com
+Agent Street Address: 33 New Montgomery St., Suite 1400
+City: San Francisco
+State: CA
+Zip Code: 94105
+Agent Address: 33 New Montgomery St., Suite 1400, San Francisco CA 94105
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.375104,-66.072899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GREEN</styleUrl>
+				<name>Sheraton Puerto Rico Convention Center</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.453557,-66.092345</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED NC 2.2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Certified</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 28.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 598,192 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Profit Org</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Vincent Pieri</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>vpieri@pieriarchitects.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>100 Blvd Gran Paseo, Suite 112, MSC390</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>San Juan</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00926-5955</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>100 Blvd Gran Paseo, Suite 112, MSC390, San Juan PR 00926-5955</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.453557,-66.092345
+System: LEED NC 2.2
+Certification: Certified
+Points:  28.0 
+Square Footage:  598,192 
+Owner Type:  Profit Org
+Agent: Vincent Pieri
+Agent Email: vpieri@pieriarchitects.com
+Agent Street Address: 100 Blvd Gran Paseo, Suite 112, MSC390
+City: San Juan
+State: PR
+Zip Code: 00926-5955
+Agent Address: 100 Blvd Gran Paseo, Suite 112, MSC390, San Juan PR 00926-5955
+Web Info: ]]></description>
+				<Point>
+					<coordinates>18.453557,-66.092345,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>USGBC Caribbean LEED Certified Projects 2013</name>
+			<Placemark>
+				<styleUrl>#icon-503-PLATINUM</styleUrl>
+				<name>New Addition to Sartorius Stedim</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.037259,-66.849833</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED-NC v2009</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Platinum</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 80.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 55,730 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value>Corporate: Publicly Traded</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Vincent Pieri                                                                                                                </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>vpieri@pieriarchitects.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>State Road 128, Interstate Road 376</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Yauco</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00698-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>State Road 128, Interstate Road 376, Yauco PR 00698-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value>https://www.honestbuildings.com/projects/68967/sartorius-stedim-biotech-manufacturing-facilities/</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.037259,-66.849833
+System: LEED-NC v2009
+Certification: Platinum
+Points:  80.0 
+Square Footage:  55,730 
+Owner Type: Corporate: Publicly Traded
+Agent: Vincent Pieri                                                                                                                
+Agent Email: vpieri@pieriarchitects.com
+Agent Street Address: State Road 128, Interstate Road 376
+City: Yauco
+State: PR
+Zip Code: 00698-0000
+Agent Address: State Road 128, Interstate Road 376, Yauco PR 00698-0000
+Web Info: https://www.honestbuildings.com/projects/68967/sartorius-stedim-biotech-manufacturing-facilities/]]></description>
+				<Point>
+					<coordinates>-66.849833,18.037259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GOLD</styleUrl>
+				<name>USDA International Institute of Tropical</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.39004,-66.055298</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED NC 2.2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Gold</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 41.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 14,064 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Other</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Maurice Hoelting</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>mhoelting@fs.fed.us</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>1720 Peachtree Rd. NW</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Atlanta</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>GA</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>30309</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>1720 Peachtree Rd. NW, Atlanta GA 30309</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.39004,-66.055298
+System: LEED NC 2.2
+Certification: Gold
+Points:  41.0 
+Square Footage:  14,064 
+Owner Type:  Other
+Agent: Maurice Hoelting
+Agent Email: mhoelting@fs.fed.us
+Agent Street Address: 1720 Peachtree Rd. NW
+City: Atlanta
+State: GA
+Zip Code: 30309
+Agent Address: 1720 Peachtree Rd. NW, Atlanta GA 30309
+Web Info: ]]></description>
+				<Point>
+					<coordinates>-66.055298,18.39004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GOLD</styleUrl>
+				<name>VA  San Juan Administration Building</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.390278, -66.079167</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED NC 2.2</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Gold</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 39.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 147,000 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Federal Government</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Shannon Roberts</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>shannon.roberts@hdrinc.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>1101 King Street</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Alexandria</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>VA</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>22314</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>1101 King Street, Alexandria VA 22314</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value>http://www.hdrinc.com/portfolio/san-juan-seismic-corrections-building-1-administrative-and-clinical-expansion-and-renovati</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.390278, -66.079167
+System: LEED NC 2.2
+Certification: Gold
+Points:  39.0 
+Square Footage:  147,000 
+Owner Type:  Federal Government
+Agent: Shannon Roberts
+Agent Email: shannon.roberts@hdrinc.com
+Agent Street Address: 1101 King Street
+City: Alexandria
+State: VA
+Zip Code: 22314
+Agent Address: 1101 King Street, Alexandria VA 22314
+Web Info: http://www.hdrinc.com/portfolio/san-juan-seismic-corrections-building-1-administrative-and-clinical-expansion-and-renovati]]></description>
+				<Point>
+					<coordinates>-66.079167,18.390278,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>Escuela Dr Hiram Gonzalez</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.360065,-66.15205</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED FOR SCHOOLS v2009</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 53.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 71,880 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value>Educational: K-12 School, Public</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Luis Muniz                                                                                                                   </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>rlopez@lumaconstruction.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>Urb. San Fernando D Street</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Bayamon</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00957-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>Urb. San Fernando D Street, Bayamon PR 00957-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.360065,-66.15205
+System: LEED FOR SCHOOLS v2009
+Certification: Silver
+Points:  53.0 
+Square Footage:  71,880 
+Owner Type: Educational: K-12 School, Public
+Agent: Luis Muniz                                                                                                                   
+Agent Email: rlopez@lumaconstruction.com
+Agent Street Address: Urb. San Fernando D Street
+City: Bayamon
+State: PR
+Zip Code: 00957-0000
+Agent Address: Urb. San Fernando D Street, Bayamon PR 00957-0000
+Web Info: ]]></description>
+				<Point>
+					<coordinates>-66.15205,18.360065,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>FEMA Leasehold Improvement (Main Building)</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.31011862873079,-66.07377437301635</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED-CI v2009</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 51.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 82,849 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value>Corporate: Privately Held</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Jose Melendez-Lopez                                                                                                          </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>jose.melendez@uniproaep.net</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>San Juan Industrial Park</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>Quebrada Arenas Ward</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00926-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>San Juan Industrial Park, Quebrada Arenas Ward PR 00926-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value>http://www.uniproaep.com/projects/details.asp?pid=67</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.31011862873079,-66.07377437301635
+System: LEED-CI v2009
+Certification: Silver
+Points:  51.0 
+Square Footage:  82,849 
+Owner Type: Corporate: Privately Held
+Agent: Jose Melendez-Lopez                                                                                                          
+Agent Email: jose.melendez@uniproaep.net
+Agent Street Address: San Juan Industrial Park
+City: Quebrada Arenas Ward
+State: PR
+Zip Code: 00926-0000
+Agent Address: San Juan Industrial Park, Quebrada Arenas Ward PR 00926-0000
+Web Info: http://www.uniproaep.com/projects/details.asp?pid=67]]></description>
+				<Point>
+					<coordinates>-66.07377437301635,18.31011862873079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-SILVER</styleUrl>
+				<name>Professional Offices Park V - Tower III</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.375104,-66.072899</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED EB O&amp;M</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Silver</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 44.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 132,318 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value> Profit Org</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Andrea Gardner</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>agardner@ch2m.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>33 New Montgomery Street</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>San Francisco</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>CA</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>33 New Montgomery Street, San Francisco CA 94105</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.375104,-66.072899
+System: LEED EB O&M
+Certification: Silver
+Points:  44.0 
+Square Footage:  132,318 
+Owner Type:  Profit Org
+Agent: Andrea Gardner
+Agent Email: agardner@ch2m.com
+Agent Street Address: 33 New Montgomery Street
+City: San Francisco
+State: CA
+Zip Code: 94105
+Agent Address: 33 New Montgomery Street, San Francisco CA 94105
+Web Info: ]]></description>
+				<Point>
+					<coordinates>-66.072899,18.375104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-GREEN</styleUrl>
+				<name>Microsoft Retail - Plaza Las Americas</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Project Geo-Location</displayName>
+						<value>18.423166,-66.074604</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>System</displayName>
+						<value>LEED-CI v2009</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Certification</displayName>
+						<value>Certified</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Points</displayName>
+						<value> 40.0 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Square Footage</displayName>
+						<value> 8,281 </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Owner Type</displayName>
+						<value>Corporate: Privately Held</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent</displayName>
+						<value>Anthony Brower                                                                                                               </value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Email</displayName>
+						<value>anthony_brower@gensler.com</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Street Address</displayName>
+						<value>525 Ave Franklin Delano Roosevelt</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>City</displayName>
+						<value>San Juan</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>State</displayName>
+						<value>PR</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Zip Code</displayName>
+						<value>00918-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Agent Address</displayName>
+						<value>525 Ave Franklin Delano Roosevelt, San Juan PR 00918-0000</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>Web Info</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Project Geo-Location: 18.423166,-66.074604
+System: LEED-CI v2009
+Certification: Certified
+Points:  40.0 
+Square Footage:  8,281 
+Owner Type: Corporate: Privately Held
+Agent: Anthony Brower                                                                                                               
+Agent Email: anthony_brower@gensler.com
+Agent Street Address: 525 Ave Franklin Delano Roosevelt
+City: San Juan
+State: PR
+Zip Code: 00918-0000
+Agent Address: 525 Ave Franklin Delano Roosevelt, San Juan PR 00918-0000
+Web Info: ]]></description>
+				<Point>
+					<coordinates>-66.074604,18.423166,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-PLATINUM'>
+			<IconStyle>
+				<color>50F0B414</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-GOLD'>
+			<IconStyle>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pal4/icon47.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-SILVER'>
+			<IconStyle>
+				<color>50C8C8C8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-GREEN'>
+			<IconStyle>
+				<color>5000E614</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
