@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<hotspot>
+  <position x="500" y="500"/>
+  <scale>0.03</scale>
+  <content>
+    <image scale="0.06">logo_ergon.png</image>
+    <text scale="0.04">Reliable Controls - Control System - Control Prodigy Lennox</text>
+    <image scale="0.4">ergon_reliablecontrols.jpg</image>
+    <image scale="0.4">logo_reliablecontrols.jpg</image>
+    <text scale="0.4">Our products are meticulously engineered to provide convenient access, flexible application, and easy installation and expansion capability.</text>
+    <image scale="0.4">qr_ergon.png</image>
+  </content>
+  <tags>ergon,reliable</tags>
+</hotspot>

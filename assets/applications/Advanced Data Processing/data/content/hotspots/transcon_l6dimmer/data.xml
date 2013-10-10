@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<hotspot>
+  <position x="500" y="500"/>
+  <scale>0.03</scale>
+  <content>
+    <text scale="0.06">Transcon Lutron Energi Savr Node</text>
+    <image scale="0.4">transcon_l6dimmer.png</image>
+    <text scale="0.04">Transcon Lutron Energi Savr Node, L6 Dimmer. A simple, programmable, smart module that controls all the lights and saves energy in a commercial space.</text>
+    <image scale="0.4">logo_transcon.jpg</image>
+    <pdf scale="0.2">Energi Savr Node (Digital Fixture Controller).pdf</pdf>    
+    <image scale="0.4">qr_transcon.png</image>
+  </content>
+  <tags>transcon,l6dimmer</tags>
+</hotspot>

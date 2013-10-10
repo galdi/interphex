@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<hotspot>
+  <position x="500" y="500"/>
+  <scale>0.03</scale>
+  <content>
+    <text scale="0.06">Transcon Bega Cylinder</text>
+    <image scale="0.4">logo_transcon.jpg</image>
+    <image scale="0.4">qr_transcon.png</image>
+  </content>
+  <tags>transcon,bega</tags>
+</hotspot>

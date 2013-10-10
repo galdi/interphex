@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<hotspot>
+  <position x="500" y="500"/>
+  <scale>0.03</scale>
+  <content>
+    <text scale="0.06">Lennox Energence</text>
+    <image scale="0.4">logo_lennox.jpg</image>
+    <text scale="0.04">Energence LCH060H4E</text>
+    <pdf scale="0.2">Lennox_Energence_brochure_ed.pdf</pdf>
+    <image scale="0.4">qr_lennox.png</image>
+  </content>
+  <tags>lennox,energence</tags>
+</hotspot>

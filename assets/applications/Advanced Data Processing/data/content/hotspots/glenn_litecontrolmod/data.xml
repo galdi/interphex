@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<hotspot>
+  <position x="500" y="500"/>
+  <scale>0.03</scale>
+  <content>
+    <image scale="0.06">logo_glenn.jpg</image>
+    <text scale="0.04">Lite Control Module</text>
+    <text scale="0.4">Ecosmart Powered By CREE LED 6 Inch Bulb Recessed Light 9.5w/10.5w 2700k Dimmable</text>
+    <image scale="0.06">logo_cree.jpg</image>
+    <image scale="0.4">qr_glenn.png</image>
+
+  </content>
+  <tags>glenn,l6dimmer</tags>
+</hotspot>

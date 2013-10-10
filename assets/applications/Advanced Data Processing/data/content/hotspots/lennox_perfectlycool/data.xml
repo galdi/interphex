@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<hotspot>
+  <position x="500" y="500"/>
+  <scale>0.03</scale>
+  <content>
+    <text scale="0.06">Lennox Perfectly Cool</text>
+    <text scale="0.04">Perfectly Cool XC25. The most precise and efficient air conditioner. Once
+      again, the innovation of Lennox is changing home comfort forever. Thanks to Precise Comfort™
+      technology that allows the XC25 air conditioner  to change their output in increments as small
+      as 1%, your home can be conditioned to perfection, with exactly the right amount of energy
+      used every time. </text>
+    <pdf scale="0.2">Lennox_XC25_Air_Conditioner_pdf.pdf</pdf>
+    <image scale="0.4">qr_lennox.png</image>
+  </content>
+  <tags>lennox,perfectlycool</tags>
+</hotspot>

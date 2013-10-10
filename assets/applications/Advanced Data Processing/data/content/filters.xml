@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<Filters>
+	
+	<Category name="Advanced Data Processing Partners">
+		<Filter name="Ergon">
+			<Tag name="ergon" />
+		</Filter>
+		<Filter name="Floor CON">
+			<Tag name="floor" />
+		</Filter>
+		<Filter name="Glenn International">
+			<Tag name="glenn" />
+		</Filter>
+		<Filter name="Lennox">
+			<Tag name="lennox" />
+		</Filter>
+		<Filter name="Transcon">
+			<Tag name="transcon" />
+		</Filter>
+	</Category>
+	
+	<Category name="Advanced Data Processing Habitat Products">
+		<Filter name="Reliable Controls">
+			<Tag name="reliable" />
+		</Filter>
+		<Filter name="Kardeanstone">
+			<Tag name="kardean" />
+		</Filter>
+		<Filter name="Glenn Lite Control Module">
+			<Tag name="l6dimmer" />
+		</Filter>
+		<Filter name="Lennox Energence">
+			<Tag name="energence" />
+		</Filter>
+		<Filter name="Lennox Perfectly Cool">
+			<Tag name="perfectlycool" />
+		</Filter>
+		<Filter name="Bega Cylinder">
+			<Tag name="bega" />
+		</Filter>
+		<Filter name="L6 Dimmer">
+			<Tag name="l6dimmer" />
+		</Filter>
+	</Category>
+	
