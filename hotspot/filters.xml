@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<Filters>
+	
+	<Category name="USGBC Categories">
+		<Filter name="Floor Solutions">
+			<Tag name="floor" />
+		</Filter>
+		<Filter name="Energy Efficiency">
+			<Tag name="energy" />
+		</Filter>
+		<Filter name="Air Quality">
+			<Tag name="air" />
+		</Filter>
+		<Filter name="Water Quality">
+			<Tag name="water" />
+		</Filter>
+		<Filter name="Outdoor Solutions">
+			<Tag name="outdoor" />
+		</Filter>
+		<Filter name="Lighting Solutions">
+			<Tag name="light" />
+		</Filter>
+		<Filter name="Automated Building Management">
+			<Tag name="auto" />
+		</Filter>
+	</Category>
+	
+	<Category name="USGBC Caribbean Partners">
+		<Filter name="3M">
+			<Tag name="3m" />
+		</Filter>
+		<Filter name="3M Touch Systems">
+			<Tag name="touch" />
+		</Filter>
+		<Filter name="3M Window Film">
+			<Tag name="window" />
+		</Filter>
+		<Filter name="3M Electronic Market Materials">
+			<Tag name="electronic" />
+		</Filter>
+		<Filter name="3M Communications Markets">
+			<Tag name="communications" />
+		</Filter>
+		<Filter name="3M Fire Barrier">
+			<Tag name="fire" />
+		</Filter>
+		<Filter name="3M Building Commercial">
+			<Tag name="building" />
+		</Filter>
+		
+		<Filter name="Floor CON">
+			<Tag name="floor" />
+		</Filter>
+		
+		<Filter name="Technical Industrial Sales">
+			<Tag name="tis" />
+		</Filter>
+		
+		<Filter name="Glenn International">
+			<Tag name="glenn" />
+		</Filter>
+		
+		<Filter name="Lennox">
+			<Tag name="lennox" />
+		</Filter>
+		
+		<Filter name="Transcon">
+			<Tag name="transcon" />
+		</Filter>
+		
+		<Filter name="Quality Water Service">
+			<Tag name="qws" />
+		</Filter>
+		
+		<Filter name="Solartek">
+			<Tag name="solar" />
+		</Filter>
+		
+		<Filter name="Trideco Acha">
+			<Tag name="solar" />
+		</Filter>
+		
+		<Filter name="Tanagua">
+			<Tag name="tanagua" />
+		</Filter>
+		
+		<Filter name="Basura Cero">
+			<Tag name="basura" />
+		</Filter>
+		
+		<Filter name="Green Image">
+			<Tag name="green" />
+		</Filter>		
+		
+		<Filter name="Objeto Normal">
+			<Tag name="objeto" />
+		</Filter>
+		
+		<Filter name="Avanzatorio">
+			<Tag name="avanzatorio" />
+		</Filter>
+		<Filter name="laKomuna">
+			<Tag name="lako" />
+		</Filter>		
+	</Category>
+	
+	<Category name="USGBC">
+		<Filter name="USGBC Caribbean">
+			<Tag name="usgbcc" />
+		</Filter>
+	</Category>
+</Filters>
